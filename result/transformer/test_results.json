@@ -1,0 +1,31 @@
+{
+    "test_loss": 5.670072555541992,
+    "test_bleu": 0.14354243756801777,
+    "examples": [
+        {
+            "source": "2017年10月18日习近平在中国共产党第十九次全国代表大会上的报告指出",
+            "reference": "on october 18 2017 xi jinping pointed out the following during the 19th cpc national congress",
+            "prediction": "<UNK> of xi at his <UNK> report points"
+        },
+        {
+            "source": "据市场星报报道从2005年到2011年我省GDP一举由中部并列垫底升至次席",
+            "reference": "shichang xingbao reported that between 2005 and 2011 the gdp of anhui province rose from joint bottom to second at one stroke",
+            "prediction": "<UNK> from 2005 to 2011 gdp rose to the bottom 90 in central and eastern europe"
+        },
+        {
+            "source": "2014年1月20日习近平在党的群众路线教育实践活动第一批总结暨第二批部署会议上发表重要讲话",
+            "reference": "on january 20 2014 xi jinping gave a keynote speech at the summingup meeting for the first batch the deployment meeting for the second batch of educational and practical activities concerning the mass line of the party",
+            "prediction": "<UNK> the first speech in his partys <UNK> education practices applied to the partys <UNK> <UNK>"
+        },
+        {
+            "source": "西甲可能会后悔对马尔科维拉蒂抛出橄榄枝",
+            "reference": "la liga side may rue their interest in marco verratti",
+            "prediction": "<UNK> could regret"
+        },
+        {
+            "source": "毒枭第三季预告片随着巴勃罗埃斯科瓦尔的离开卡利集团开始走上Netflix 热播剧中心舞台",
+            "reference": "narcos season 3 trailer with pablo escobar gone the cali cartel take centre stage in netflixs hit series",
+            "prediction": "<UNK> as the <UNK> leave of the drug lords have moved to a <UNK> stage"
+        }
+    ]
+}

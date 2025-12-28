@@ -1,0 +1,31 @@
+{
+    "test_loss": 6.916085720062256,
+    "test_bleu": 0.09911108092890024,
+    "examples": [
+        {
+            "source": "2018年1月11日习近平在中国共产党第十九届中央纪律检查委员会第二次全体会议上发表重要讲话",
+            "reference": "on january 11 2018 xi jinping gave a keynote speech during the second plenary session of the 19th central commission for discipline inspection of the communist party of china",
+            "prediction": "<UNK> xi xi president xi <UNK> xi xi the xi the xi president xi parliamentary korean korean"
+        },
+        {
+            "source": "这两位政府官员称苹果上个月致信印度政府阐述了在印度生产iPhone等产品的计划并希望印度政府能在财政方面出台优惠政策",
+            "reference": "these two government officials claimed that apple sent a letter to the indian government last month which set forth its plans to produce iphone and other products in india and hoped that the indian government would introduce preferential policies on the fiscal front",
+            "prediction": "<UNK> that this government government government officials government officials government officials indian indian indian indian indian indian indian indian indian indian indian indian indian indian indian and indian and indian and the and"
+        },
+        {
+            "source": "地铁三号线延长线从其西边穿过地块正位于同和站和京溪南方医院站之间的路段",
+            "reference": "the site with the extended guangzhou metro line 3 passing through its east side is located at the section of the road between tonghe and jingxi nanfang hospital stations",
+            "prediction": "<UNK> rebels <UNK> his <UNK> <UNK> his <UNK> <UNK> his <UNK> dynasty provincial myanmar <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> peninsula peninsula peninsula romania gary peninsula minutes gary gary"
+        },
+        {
+            "source": "乒超联赛昨晚进行了女团第16轮争夺丁宁因病缺阵北京首钢女乒客场不敌山东鲁能",
+            "reference": "the 16th round of the womens team of the table tennis super league took place last night ding ning missed the match due to illness as a guest member the womens team of beijing shougang group failed shandong luneng",
+            "prediction": "<UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>"
+        },
+        {
+            "source": "以2005年和2011年我省经济的一些代表性指标为依据将其与全国及中部地区进行比较",
+            "reference": "we have made a comparison of some of the representative indices of the provinces economy between 2005 and 2011 with that of the nation and central china",
+            "prediction": "<UNK> in 2005 2005 of the 2005 2005 2005 2005 2005 2005 2005 2005 indonesia similar tanzania tanzania tanzania tanzania similar local similar local regional local regional local regional regional"
+        }
+    ]
+}
